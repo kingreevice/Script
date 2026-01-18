@@ -1,6 +1,6 @@
 /*
 [rewrite_local]
-^http:\/\/wu18\.cn\/cg\/zhanghao\/ALogOn\.php url script-response-body wu18.js
+^http:\/\/wu18\.cn\/cg\/zhanghao\/ALogOn\.php url script-response-body https://raw.githubusercontent.com/kingreevice/Script/refs/heads/main/wu18.js
 [mitm]
 hostname = wu18.cn
 */
