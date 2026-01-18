@@ -1,7 +1,7 @@
 /*
 [rewrite_local]
 ^http:\/\/wu18\.cn\/cg\/zhanghao\/ALogOn\.php url script-response-body wu18.js
-[MITM]
+[mitm]
 hostname = wu18.cn
 */
 const $ = Env("wu18",true);
